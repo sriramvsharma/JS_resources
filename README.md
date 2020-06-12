@@ -1,4 +1,4 @@
-##JS_resources
+## JS_resources
 
 A collection of online resources to learn JavaScript and React
 
@@ -7,7 +7,7 @@ A collection of online resources to learn JavaScript and React
 [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 
 
-##Learning
+## Learning
 
 [FreeCodeCamp.org](https://www.freecodecamp.org/)
 
