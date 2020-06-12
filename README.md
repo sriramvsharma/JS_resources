@@ -3,8 +3,11 @@ A collection of online resources to learn JavaScript and React
 
 [Ecosystem Analysis: State of JavaScript](https://2019.stateofjs.com/features/)
 [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
+[Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
+
 
 **Learning:** 
+[FreeCodeCamp.org](https://www.freecodecamp.org/)
 
 [WatchandCode](https://watchandcode.com/courses/60264/lectures/900207)
 
@@ -20,13 +23,19 @@ A collection of online resources to learn JavaScript and React
 
 [Just JavaScript by Dan Abramov and Maggie Appleton](https://justjavascript.com/)
 
+[Cheat Sheets](https://devhints.io/)
+
+[Meta resource on ES6](https://github.com/ericdouglas/ES6-Learning)
+
 *React*
 [React Practice Projects](https://daveceddia.com/react-practice-projects/)
+
 [Basic React Patterns](https://www.johnvincent.io/react/basic-react-patterns/)
+
 [React Cheat Sheet](https://reactcheatsheet.com/)
-[More Cheat Sheets](https://devhints.io/react)
-[React Fetch API Data | Build and Deploy a Real Advice App Project](https://www.youtube.com/watch?v=o5CdCETh8cQ)
+
 [Dan Abramov's Blog](https://overreacted.io/)
+
 [Scrimba](https://scrimba.com/g/glearnreact)
 
 *Web Dev Tools*
@@ -36,6 +45,15 @@ A collection of online resources to learn JavaScript and React
 
 [Color Picker #2](https://htmlcolorcodes.com/color-picker/)
 
-[]()
+
+*Video Learning*
+[JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
+
+[FireShip](https://fireship.io/lessons/)
+
+[Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+
+[Egghead.io](https://egghead.io/browse/frameworks/react)
+
 
 
