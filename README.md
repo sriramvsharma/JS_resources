@@ -1,4 +1,5 @@
-# JS_resources
+##JS_resources
+
 A collection of online resources to learn JavaScript and React
 
 [Ecosystem Analysis: State of JavaScript](https://2019.stateofjs.com/features/)
@@ -6,7 +7,8 @@ A collection of online resources to learn JavaScript and React
 [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 
 
-**Learning:** 
+##Learning
+
 [FreeCodeCamp.org](https://www.freecodecamp.org/)
 
 [WatchandCode](https://watchandcode.com/courses/60264/lectures/900207)
@@ -27,7 +29,8 @@ A collection of online resources to learn JavaScript and React
 
 [Meta resource on ES6](https://github.com/ericdouglas/ES6-Learning)
 
-*React*
+## React
+
 [React Practice Projects](https://daveceddia.com/react-practice-projects/)
 
 [Basic React Patterns](https://www.johnvincent.io/react/basic-react-patterns/)
@@ -38,7 +41,7 @@ A collection of online resources to learn JavaScript and React
 
 [Scrimba](https://scrimba.com/g/glearnreact)
 
-*Web Dev Tools*
+## Web Dev Tools
 [Color Picker](http://eye-dropper.kepi.cz/)
 
 [Web Gradients](https://webgradients.com/)
@@ -46,7 +49,8 @@ A collection of online resources to learn JavaScript and React
 [Color Picker #2](https://htmlcolorcodes.com/color-picker/)
 
 
-*Video Learning*
+## Video Learning
+
 [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
 
 [FireShip](https://fireship.io/lessons/)
