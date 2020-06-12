@@ -3,7 +3,9 @@
 A collection of online resources to learn JavaScript and React
 
 [Ecosystem Analysis: State of JavaScript](https://2019.stateofjs.com/features/)
+
 [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
+
 [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 
 
