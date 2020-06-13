@@ -43,6 +43,8 @@ A collection of online resources to learn JavaScript and React
 
 [Scrimba](https://scrimba.com/g/glearnreact)
 
+[ReactJS for the Visual Learner](https://leanpub.com/reactjsforthevisuallearner/read)
+
 ## Web Dev Tools
 [Color Picker](http://eye-dropper.kepi.cz/)
 
@@ -60,6 +62,11 @@ A collection of online resources to learn JavaScript and React
 [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
 [Egghead.io](https://egghead.io/browse/frameworks/react)
+
+## Illustrated
+
+[Illustrated.dev](https://illustrated.dev/)
+
 
 
 
