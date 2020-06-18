@@ -1,6 +1,6 @@
-## JS_resources
-
 A collection of online resources to learn JavaScript and React
+
+## Welcome to the Jungle 
 
 [Ecosystem Analysis: State of JavaScript](https://2019.stateofjs.com/features/)
 
