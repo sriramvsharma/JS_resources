@@ -13,6 +13,8 @@ A collection of online resources to learn JavaScript and React
 
 [FreeCodeCamp.org](https://www.freecodecamp.org/)
 
+[C0d3.com](https://https://www.c0d3.com/)
+
 [WatchandCode](https://watchandcode.com/courses/60264/lectures/900207)
 
 [Nicholas Zakas' book on ES6](https://leanpub.com/understandinges6/read)
