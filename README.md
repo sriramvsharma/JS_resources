@@ -30,6 +30,7 @@ A collection of online resources to learn JavaScript and React
 [Just JavaScript by Dan Abramov and Maggie Appleton](https://justjavascript.com/)
 
 [Cheat Sheets](https://devhints.io/)
+[LearnXinYMinutes](https://learnxinyminutes.com/)
 
 [Meta resource on ES6](https://github.com/ericdouglas/ES6-Learning)
 
