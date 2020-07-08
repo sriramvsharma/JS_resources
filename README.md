@@ -80,6 +80,6 @@ A collection of online resources to learn JavaScript and React
 
 [Illustrated.dev](https://illustrated.dev/)
 
-
+[Corporate styleguides - Examples](http://styleguides.io/examples)
 
 
