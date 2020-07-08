@@ -18,7 +18,9 @@ A collection of online resources to learn JavaScript and React
 [WatchandCode](https://watchandcode.com/courses/60264/lectures/900207)
 
 [Nicholas Zakas' book on ES6](https://leanpub.com/understandinges6/read)
+
 [Eloquent Javascript](https://eloquentjavascript.net/)
+
 [ES6 Features](https://github.com/lukehoban/es6features#readme)
 
 [Promises](https://www.promisejs.org)
@@ -62,7 +64,7 @@ A collection of online resources to learn JavaScript and React
 
 [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 
-
+[Data Viz Style Guidelines](https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf)
 
 ## Video Learning
 
