@@ -84,4 +84,4 @@ A collection of online resources to learn JavaScript and React
 
 [Corporate styleguides - Examples](http://styleguides.io/examples)
 
-
+[CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en#pseudo-class)
