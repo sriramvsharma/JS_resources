@@ -57,6 +57,16 @@ A collection of online resources to learn JavaScript and React
 
 [ReactJS for the Visual Learner](https://leanpub.com/reactjsforthevisuallearner/read)
 
+## D3js
+
+[A nice brain dump here](https://medium.com/@didoesdigital/learning-data-viz-with-d3-8b54afcef74)
+
+[What is D3 by Amelia Wattenberger](https://wattenberger.com/blog/d3#intro) 
+
+[Vizhub](https://vizhub.com) * Has a massive cache of videos on YouTube and a [free ongoing online course](https://datavis.tech/datavis-2020/)
+
+
+
 ## Web Dev Tools
 [Color Picker](http://eye-dropper.kepi.cz/)
 
