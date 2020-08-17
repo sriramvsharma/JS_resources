@@ -43,6 +43,8 @@ A collection of online resources to learn JavaScript and React
 
 [Meta resource on ES6](https://github.com/ericdouglas/ES6-Learning)
 
+[Execute Program](https://www.executeprogram.com/) (Uses spaced repetition to introduce programming concepts.)
+
 ## React
 
 [React Practice Projects](https://daveceddia.com/react-practice-projects/)
