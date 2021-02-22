@@ -85,6 +85,7 @@ A collection of online resources related to front-end web development.
 [Microcopy](https://www.speakhuman.today/)
 
 [Design tools and tips](https://github.com/sw-yx/spark-joy/)
+[The plain contract](https://github.com/jackmorgan/the-plain-contract)
 
 
 ## Video Learning
