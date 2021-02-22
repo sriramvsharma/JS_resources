@@ -1,4 +1,4 @@
-A collection of online resources to learn JavaScript and React
+A collection of online resources related to front-end web development. 
 
 ## Welcome to the Jungle 
 
@@ -79,6 +79,9 @@ A collection of online resources to learn JavaScript and React
 [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 
 [Data Viz Style Guidelines](https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf)
+
+[Typography](https://practicaltypography.com/typography-in-ten-minutes.html)
+
 
 ## Video Learning
 
