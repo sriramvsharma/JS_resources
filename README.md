@@ -82,6 +82,10 @@ A collection of online resources related to front-end web development.
 
 [Typography](https://practicaltypography.com/typography-in-ten-minutes.html)
 
+[Microcopy](https://www.speakhuman.today/)
+
+[Design tools and tips](https://github.com/sw-yx/spark-joy/)
+
 
 ## Video Learning
 
