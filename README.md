@@ -1,6 +1,6 @@
 A collection of online resources related to front-end web development. 
 
-## Welcome to the Jungle 
+## Landscape Overview  
 
 [Ecosystem Analysis: State of JavaScript](https://2019.stateofjs.com/features/)
 
@@ -45,6 +45,10 @@ A collection of online resources related to front-end web development.
 
 [Execute Program](https://www.executeprogram.com/) (Uses spaced repetition to introduce programming concepts.)
 
+##JQuery
+[You might not need jQuery](http://youmightnotneedjquery.com/)
+
+
 ## React
 
 [React Practice Projects](https://daveceddia.com/react-practice-projects/)
@@ -84,7 +88,7 @@ A collection of online resources related to front-end web development.
 
 [Microcopy](https://www.speakhuman.today/)
 
-[Design tools and tips](https://github.com/sw-yx/spark-joy/)
+[Brain Dump: Design tools and tips to spark joy](https://github.com/sw-yx/spark-joy/)
 [The plain contract](https://github.com/jackmorgan/the-plain-contract)
 
 
