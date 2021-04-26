@@ -29,8 +29,6 @@ A collection of online resources related to front-end web development.
 
 [More Promises](https://promisesaplus.com/)
 
-[React Docs](https://reactjs.org/docs/getting-started.html)
-[Awesome React Components](https://github.com/brillout/awesome-react-components)
 
 [Javascript.info](https://javascript.info/)
 
@@ -63,6 +61,11 @@ A collection of online resources related to front-end web development.
 [Scrimba](https://scrimba.com/g/glearnreact)
 
 [ReactJS for the Visual Learner](https://leanpub.com/reactjsforthevisuallearner/read)
+
+[React Docs](https://reactjs.org/docs/getting-started.html)
+
+[Awesome React Components](https://github.com/brillout/awesome-react-components)
+
 
 ## D3js
 
