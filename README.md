@@ -30,6 +30,7 @@ A collection of online resources related to front-end web development.
 [More Promises](https://promisesaplus.com/)
 
 [React Docs](https://reactjs.org/docs/getting-started.html)
+[Awesome React Components](https://github.com/brillout/awesome-react-components)
 
 [Javascript.info](https://javascript.info/)
 
