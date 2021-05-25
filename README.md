@@ -66,6 +66,8 @@ A collection of online resources related to front-end web development.
 
 [Awesome React Components](https://github.com/brillout/awesome-react-components)
 
+[React Icons](https://react-icons.github.io/react-icons)
+
 
 ## D3js
 
