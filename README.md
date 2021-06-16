@@ -118,6 +118,11 @@ A collection of online resources related to front-end web development.
 
 [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en#pseudo-class)
 
+##Wordpress Tools
+[GenerateWP](https://generatewp.com)
+[Wordpress Template Hierarchy](https://wphierarchy.com/)
+
+
 ## React Links from Michael Whyte's Course at BCIT FWD 
 
 ### day-1
