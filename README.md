@@ -120,6 +120,7 @@ A collection of online resources related to front-end web development.
 
 ## Wordpress Tools
 [GenerateWP](https://generatewp.com)
+
 [Wordpress Template Hierarchy](https://wphierarchy.com/)
 
 
