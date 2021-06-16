@@ -118,7 +118,7 @@ A collection of online resources related to front-end web development.
 
 [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en#pseudo-class)
 
-##Wordpress Tools
+## Wordpress Tools
 [GenerateWP](https://generatewp.com)
 [Wordpress Template Hierarchy](https://wphierarchy.com/)
 
