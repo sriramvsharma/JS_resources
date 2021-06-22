@@ -82,6 +82,8 @@ A collection of online resources related to front-end web development.
 
 
 ## Web Dev Tools
+
+[SVG Path Editor](https://yqnn.github.io/svg-path-editor/)
 [Color Picker](http://eye-dropper.kepi.cz/)
 
 [Web Gradients](https://webgradients.com/)
