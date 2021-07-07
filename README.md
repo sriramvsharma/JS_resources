@@ -29,6 +29,8 @@ A collection of online resources related to front-end web development.
 
 [More Promises](https://promisesaplus.com/)
 
+[https://www.w3.org/Style/Examples/007/](Canonical examples for CSS styling from W3.org)
+
 
 [Javascript.info](https://javascript.info/)
 
