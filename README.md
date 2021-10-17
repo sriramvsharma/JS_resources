@@ -122,6 +122,10 @@ A collection of online resources related to front-end web development.
 
 [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en#pseudo-class)
 
+[Undraw - Free Illustrations](https://undraw.co/illustrations)
+
+[Manypixels](https://www.manypixels.co/gallery)
+
 ## Wordpress Tools
 [GenerateWP](https://generatewp.com)
 
