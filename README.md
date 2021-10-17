@@ -47,6 +47,7 @@ A collection of online resources related to front-end web development.
 [Execute Program](https://www.executeprogram.com/) (Uses spaced repetition to introduce programming concepts.)
 
 ##JQuery
+
 [You might not need jQuery](http://youmightnotneedjquery.com/)
 
 
