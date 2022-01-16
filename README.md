@@ -23,7 +23,7 @@ A collection of online resources related to front-end web development.
 
 [Eloquent Javascript](https://eloquentjavascript.net/)
 
-[ES6 Cheatsheet](https://es6cheatsheet.com/?key=mailing-list&utm_source=drip&utm_medium=email&utm_campaign=email-signup&ck_subscriber_id=1586553355)
+[Interactive ES6 Cheatsheet](https://es6cheatsheet.com/?key=mailing-list&utm_source=drip&utm_medium=email&utm_campaign=email-signup&ck_subscriber_id=1586553355)
 
 [ES6 Features](https://github.com/lukehoban/es6features#readme)
 
