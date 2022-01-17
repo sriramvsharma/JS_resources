@@ -11,7 +11,7 @@ A collection of online resources related to front-end web development.
 [MDN Learn Web Developer](https://developer.mozilla.org/en-US/docs/Learn)
 
 
-## Learning
+## Learning & Reference
 
 [FreeCodeCamp.org](https://www.freecodecamp.org/)
 
@@ -47,6 +47,10 @@ A collection of online resources related to front-end web development.
 [Meta resource on ES6](https://github.com/ericdouglas/ES6-Learning)
 
 [Execute Program](https://www.executeprogram.com/) (Uses spaced repetition to introduce programming concepts.)
+
+##CSS
+
+[Selectors Explained](https://kittygiraudel.github.io/selectors-explained/)
 
 ##JQuery
 
