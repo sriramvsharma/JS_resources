@@ -35,6 +35,7 @@ A collection of online resources related to front-end web development.
 
 
 [Javascript.info](https://javascript.info/)
+[Jargon Explained](https://jargon.js.org/)
 
 [Just JavaScript by Dan Abramov and Maggie Appleton](https://justjavascript.com/)
 
