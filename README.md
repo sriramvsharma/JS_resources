@@ -141,6 +141,8 @@ A collection of online resources related to front-end web development.
 
 [Wordpress Template Hierarchy](https://wphierarchy.com/)
 
+##Animation
+[How to use Greensock](https://www.linkedin.com/learning/learning-javascript-animations-with-greensock/adding-greensock-plugins-to-your-project)
 
 ## React Links from Michael Whyte's Course at BCIT FWD 
 
